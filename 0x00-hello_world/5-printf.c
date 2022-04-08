@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * My first program
- * Return 1 after running the program
+ *
+ * Return: 1 after running the program
  */
 int main(void)
 {
