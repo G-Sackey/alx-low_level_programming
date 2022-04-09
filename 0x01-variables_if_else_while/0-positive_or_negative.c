@@ -5,7 +5,7 @@
 /*betty style doc for function main goes there*/
 /**
 *main - Entry point
-*
+*Description - Print positve negative or zero
 *Return: Always 0 (Success)
 */
 int main(void)
