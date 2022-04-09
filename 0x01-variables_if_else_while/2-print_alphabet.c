@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-*main - print alphas
-*following a new line
-*Return: Always 0 (Success)
-*/
+ *main - print alphas
+ *following a new line
+ *Return: Always 0 (Success)
+ **/
 int main(void)
 {
 char ch;
