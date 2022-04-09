@@ -4,8 +4,8 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 /**
-*main - main function
-*Description: task 2
+*main - output the last digit
+*Number stored in last
 *Return: 0 Always (Success)
 */
 int main(void)
