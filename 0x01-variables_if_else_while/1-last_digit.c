@@ -23,5 +23,6 @@ else if ((n % 10 < 6) && (n 10 != 0))
 {
 printf("Last digit of %e is %e and is less than 6 and not 0\n", n, n % 10);
 }
+putchar('\n');
 return (0);
 }
