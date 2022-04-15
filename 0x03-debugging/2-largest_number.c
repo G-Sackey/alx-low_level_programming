@@ -1,10 +1,8 @@
 #include "main.h"
 /**
-*largest_number - returns the biggest number
-*@a: first number
-*@b: second number
-*@c: third number
-*Return: Biggest number
+*main - largest number
+*
+*Return: Always 0
 */
 int largest_number(int a, int b, int c)
 {
