@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main - Test fcn 
+*main - Test fcn
 *Return: 0
 */
 int main(void)
